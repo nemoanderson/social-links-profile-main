@@ -62,8 +62,7 @@ button:hover {
 .card {
     background: var(--Grey-800);
     color: var(--White);
-    margin: auto;
-    margin-top: 60px;
+    margin: 3rem auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
