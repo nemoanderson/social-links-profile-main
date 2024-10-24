@@ -11,21 +11,21 @@
 
 @font-face {
     font-family: 'Inter';
-    src: url(/assets/fonts/static/Inter-Regular.ttf);
+    src: url(./assets/fonts/static/Inter-Regular.ttf);
     font-style: regular;
     font-weight: 400;
 }
 
 @font-face {
     font-family: 'Inter';
-    src: url(/assets/fonts/static/Inter-SemiBold.ttf);
+    src: url(./assets/fonts/static/Inter-SemiBold.ttf);
     font-style: regular;
     font-weight: 600;
 }
 
 @font-face {
     font-family: 'Inter';
-    src: url(/assets/fonts/static/Inter-Bold.ttf);
+    src: url(./assets/fonts/static/Inter-Bold.ttf);
     font-style: regular;
     font-weight: 700;
 }
